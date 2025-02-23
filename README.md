@@ -1,2 +1,2 @@
 # DPDH
-该文章录用之后开源代码
+The code for the paper will be open source after the paper is accepted
